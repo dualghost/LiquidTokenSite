@@ -663,15 +663,6 @@ button:focus {
   color: #fff;
 }
 
-.hero-area .intro-img {
-  padding: 148px 0 0px;
-}
-
-.hero-area .intro-img img {
-  display: block;
-  height: auto;
-  max-width: 100%;
-}
 
 /* ==========================================================================
  Hero Production version
